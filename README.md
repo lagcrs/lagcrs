@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋:smile:
 
-<!--
-**lagcrs/lagcrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Larissa Silva and I'm a Front-end Developer. I'm graduated in Systems Analysis and Development at Fatec. I've always love to learn new things, so I'm constantly studying something new every day. At the moment my focus is to deepen my knowledge in the JavaScript Universe (ReactJS / NodeJS / React Native).
 
-Here are some ideas to get you started:
+In my free time I like:
+- To play video games :video_game:.
+- To watch series 📺.
+- To read books 📚.
+- To listen to music 🎵
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can find me here:
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/LarissaGeorgina)](https://twitter.com/LarissaGeorgina)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lagcrs)](https://www.linkedin.com/in/lagcrs)
