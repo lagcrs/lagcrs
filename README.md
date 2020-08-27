@@ -9,5 +9,5 @@ My name is Larissa Silva and I'm a Front-end Developer. I'm graduated in Systems
 - To listen to music 🎵
 
 :point_right: You can find me here: 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lagcrs)](https://twitter.com/LarissaGeorgina)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lagcrs)](https://twitter.com/lagcrs)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lagcrs)](https://www.linkedin.com/in/lagcrs)
