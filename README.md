@@ -1,6 +1,6 @@
 ### Hi there 👋:smile:
 
-My name is Larissa Silva and I'm a Front-end Developer. I'm graduated in Systems Analysis and Development at Fatec :raised_hands:. I've always love to learn new things, so I'm constantly studying something new every day :ok_woman:. At the moment my focus is to deepen my knowledge in the JavaScript Universe (ReactJS / NodeJS / React Native) :heart:.
+My name is Larissa Silva and I'm a Front-end Developer. I'm graduated in Systems Analysis and Development at Fatec :raised_hands:. I've always love to learn new things, so I'm constantly studying something new every day :ok_woman:. At the moment my focus is to deepen my knowledge in the Web Development Universe :heart:.
 
 **In my free time I like:**
 - To play video games :video_game:
